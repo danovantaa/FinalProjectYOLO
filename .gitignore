@@ -1,0 +1,6 @@
+# Virtual environment
+venv/
+.venv/
+
+# Pretrained models
+modelPreTrain/
